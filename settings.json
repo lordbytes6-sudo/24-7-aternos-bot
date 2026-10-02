@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EndlesMC.aternos.me",
-    "port": 30100,
+    "ip": "endlesmc.mcsh.io",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
