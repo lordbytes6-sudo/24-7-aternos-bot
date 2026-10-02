@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "endless.joinmc.world",
-    "port": 32680
+    "ip": "obsidian.mcsh.io",
+    "port": 25565
     ,
     "version": "1.20.1",
     "try-creative": false
