@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "endlesmc.mcsh.io",
-    "port": 25565
+    "ip": "endless.joinmc.world",
+    "port": 32680
     ,
     "version": "1.20.1",
     "try-creative": false
