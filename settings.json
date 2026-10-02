@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "endles.mcsh.io",
+    "ip": "endlesmc.mcsh.io",
     "port": 25565
     ,
     "version": "1.20.1",
