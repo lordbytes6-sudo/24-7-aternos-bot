@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bloodlustmc.mcsh.io",
+    "ip": "pixelcraftmc.mcsh.io",
     "port": 25565
     ,
     "version": "1.20.1",
