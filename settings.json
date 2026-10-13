@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "  PixelCraft",
     "password": "",
     "type": "offline"
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "lordabcx"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,9 +32,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Welcome To PixelCraft",
+        "Subscribe to LordBytes!",
+        " YOUTUBE LINK https://www.youtube.com/@LordBytes1"
       ]
     },
     "chat-log": true,
